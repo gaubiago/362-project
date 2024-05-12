@@ -3,19 +3,19 @@ An e-commerce app developed for class Foundations of Software Engineering at CSU
 
 # How to Run
 
-In two separate terminals, navegate into the folder `client`. Then:
+In two separate terminals, navigate into the folder `client`. Then:
 
 * In one terminal, run the front-end service:
 
-```js
+```sh
 npm start
-````
+```
 
 * In the other terminal, run the database service:
 
-```js
+```sh
 npm run server
-````
+```
 
 # Team
 * [Aren Lizardo](https://github.com/delaureon)
